@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ezekwechibuikem
-- 👀 I’m interested in Software Development/Engineering, particularly in Python, C#, and C.
+- 👀 I’m interested in Software Development/Engineering, particularly in Python, C#, C, Html, Javascript, Css and Bootstrap
 - 🌱 I’m currently learning Python, C#, and C to enhance my skills and knowledge in software development.
 - 💞️ I’m looking to collaborate on projects related to web development, data analysis, and software engineering.
 - 📫 You can reach me via email at ezekwechibuikem@gmail.com
