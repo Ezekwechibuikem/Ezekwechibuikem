@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ezekwechibuikem
+- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 - 👀 I’m interested in Software Development/Engineering, particularly in Python, C#, C, Html, Javascript, Css and Bootstrap
 - 🌱 I’m currently learning Python, C#, and C to enhance my skills and knowledge in software development.
 - 💞️ I’m looking to collaborate on projects related to web development, data analysis, and software engineering.
