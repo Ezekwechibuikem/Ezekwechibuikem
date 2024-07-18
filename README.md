@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ezekwechibuikem
-- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
-- 👀 I’m interested in Software Development/Engineering, particularly in Python, C#, C, Html, Javascript, Css and Bootstrap
-- 🌱 I’m currently learning Python, C#, and C to enhance my skills and knowledge in software development.
-- 💞️ I’m looking to collaborate on projects related to web development, data analysis, and software engineering.
-- 📫 You can reach me via email at ezekwechibuikem@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving programming puzzles and playing strategy games in my free time.
+# 💫 About Me:
+### 👋 Hi, I’m @Ezekwechibuikem
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
+
+-👨‍💻 All of my projects are available at [https://github.com/Ezekwechibuikem](https://github.com/Ezekwechibuikem/)<br><br>- 💼 Portfolio []()<br><br>- 📫 How to reach me **ezekwechibuikem@gmail.com**<br>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezekwe-chibuikem-6b826a259/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348107285275)
