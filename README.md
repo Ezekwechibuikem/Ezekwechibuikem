@@ -1,11 +1,14 @@
 # 💫 About Me:
-### 👋 Hi, I’m @Ezekwechibuikem
+### 👋 Hi, I’m Ezekwe Chibuikem Bonaventure
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 
 -👨‍💻 All of my projects are available at [https://github.com/Ezekwechibuikem](https://github.com/Ezekwechibuikem/)<br><br>- 💼 Portfolio [https://ezekwechibuikem.github.io/Chibuikem_Portfolio/](https://ezekwechibuikem.github.io/Chibuikem_Portfolio/)<br><br>- 📫 How to reach me **ezekwechibuikem@gmail.com**<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezekwe-chibuikem-6b826a259/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348107285275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezekwe-chibuikem-6b826a259/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348107285275) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Bonaventex?t=TnalnttCHv06ukjfhG1wXA&s=09) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Ezekwechibuikem) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ezekwe_chibuikem?igsh=cGp4cjdxNmQxdTIz) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23302075.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@chibuikemezekwe?_t=8q9MvB1tXPx&_r=1)
 
 # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
