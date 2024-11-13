@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ezekwechibuikem&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Ezekwechibuikem&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezekwechibuikem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ezekwechibuikem&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![]([https://github-readme-streak-stats.herokuapp.com/?user=Ezekwechibuikem&theme=dark&hide_border=false](https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ezekwe%20chibuikem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak))<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezekwechibuikem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ezekwechibuikem&icon=2&color=0)](https://visitcount.itsvg.in)
