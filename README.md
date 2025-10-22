@@ -5,7 +5,7 @@
 -👨‍💻 All of my projects are available at [https://github.com/Ezekwechibuikem](https://github.com/Ezekwechibuikem/)<br><br>- 💼 Portfolio [https://ezekwechibuikem.github.io/Chibuikem_Portfolio/](https://ezekwechibuikem.github.io/Chibuikem_Portfolio/)<br><br>- 📫 How to reach me **ezekwechibuikem@gmail.com**<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezekwe-chibuikem-6b826a259/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348107285275) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Bonaventex?t=TnalnttCHv06ukjfhG1wXA&s=09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezekwe-chibuikem-6b826a259/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348107285275) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)]((https://x.com/3Djs_Dev)) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Ezekwechibuikem) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ezekwe_chibuikem?igsh=cGp4cjdxNmQxdTIz) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23302075.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@chibuikemezekwe?_t=8q9MvB1tXPx&_r=1)
