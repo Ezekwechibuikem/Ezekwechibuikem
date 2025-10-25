@@ -5,9 +5,12 @@
 -👨‍💻 All of my projects are available at [https://github.com/Ezekwechibuikem](https://github.com/Ezekwechibuikem/)<br><br>- 💼 Portfolio [https://ezekwechibuikem.github.io/Chibuikem_Portfolio/](https://ezekwechibuikem.github.io/Chibuikem_Portfolio/)<br><br>- 📫 How to reach me **ezekwechibuikem@gmail.com**<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezekwe-chibuikem-6b826a259/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348107285275) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/3Djs_Dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Ezekwechibuikem) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ezekwe_chibuikem?igsh=cGp4cjdxNmQxdTIz) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezekwe-chibuikem-6b826a259/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2348107285275)
+[![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-128C7E?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2347031463619)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/3Djs_Dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Ezekwechibuikem)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ezekwe_chibuikem?igsh=cGp4cjdxNmQxdTIz)
 [![TikTok](https://img.shields.io/badge/TikTok-%23302075.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@chibuikemezekwe?_t=8q9MvB1tXPx&_r=1)
 
 # 💻 Tech Stack:
@@ -16,7 +19,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  <!-- Add React badge -->
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
