@@ -11,7 +11,7 @@ Full-stack developer building websites and web apps for NGOs and businesses. Ope
 ## 🚀 Featured Work
 
 - **[THRIVERIGHT Health Foundation](https://thfnigeria.org)** · NGO website, built and maintained
-- **[Marriage Shapers]** · React platform.
+- **[Marriage Shapers](https://github.com/Ezekwechibuikem/Marriage_Shapers)** · React platform.
 - **[JAY&OAKS LTD](https://jaysandoaks.com/)** · React frontend development
 - **[Office-Flow](https://github.com/Ezekwechibuikem/Office-Flow)** · HR system in Django + PostgreSQL
 
