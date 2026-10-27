@@ -60,7 +60,7 @@ Full-stack developer building websites and web apps for NGOs and businesses. Ope
   <a href="mailto:ezekwechibuikem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/2348107285275"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://wa.me/2347031463619"><img src="https://img.shields.io/badge/WhatsApp_Business-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://x.com/3Djs_Dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/Chi_B_ikem"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/ezekwe_chibuikem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@chibuikemezekwe"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
